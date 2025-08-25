@@ -16,6 +16,14 @@ This project aims to detect fraudulent financial transactions using Machine Lear
 
 ---
 
+## Dataset
+
+download the dataset from kaggle 
+
+[link](https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download)
+
+---
+
 ## ⚙️ Tech Stack
 
 - Languages: Python
